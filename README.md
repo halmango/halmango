@@ -24,8 +24,7 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=black">
     <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=black">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
 <br>
